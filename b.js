@@ -1,1 +1,1 @@
-b.js
+This b.js content.
