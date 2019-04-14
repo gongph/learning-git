@@ -9,8 +9,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "commitlint --from=HEAD^1",
-      "commit-msg": "commitlint -e HUSKY_GIT_PARAMS"
+      "pre-commit": "commitlint -v",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "repository": {
