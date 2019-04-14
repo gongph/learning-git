@@ -29,7 +29,7 @@
       "path": "./node_modules/cz-conventional-changelog"
     },
     "ghooks": {
-      "commit-msg": "validate-commit-msg"
+      "commit-msg": "./validate-commit-msg.js"
     }
   }
 }
